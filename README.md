@@ -1,1 +1,1 @@
-In this project, I will be determined whether song length affects its popularity between two similar hip-hop artists, Lil Uzi Vert and Travis Scott. This project was completed on Anaconda Notebooks, a hosted JupyterLab service.
+In this project, I be determined whether song length affects its popularity between two similar hip-hop artists, Lil Uzi Vert and Travis Scott. This project was completed on Anaconda Notebooks, a hosted JupyterLab service.
